@@ -7,7 +7,9 @@ The novice frontend developer
 October 18, 1987
 *** 
 ##Contacts
+
 Orsha
+
 +375(29)5191917 (MTS)
 
 e-mail: tribisalexandr@yandex.ru
@@ -53,6 +55,7 @@ Discord: Alexandr Tribis (@tribisalex)
     - I know how to settle conflict situations.
 ****
 ##Education
+
 ***Teacher of Mathematics and Computer Science***
 
 2013, Vitebsk State University named after P.M. Masherov
@@ -66,6 +69,7 @@ Discord: Alexandr Tribis (@tribisalex)
 2021, Vitebsk State University named after P.M. Masherov
 ****
 ##Work experience
+
 ***Computer Science Teacher***
 
 2008 – 2016, State educational institution "Secondary school No.7 of Orsha"
@@ -75,9 +79,11 @@ Discord: Alexandr Tribis (@tribisalex)
 2016 - present, Orsha College of the P.M. Masherov VSU
 ***
 ##My Projects
+
 [https://tribisalex.github.io/bargin-sale/]
 
 [https://itransition-cource-687b2.web.app/]
 ***
 ##English
+
 Level A2, I read technical documentation, periodically using Google Translate
