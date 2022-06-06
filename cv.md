@@ -51,24 +51,24 @@ Discord: Alexandr Tribis (@tribisalex)
     - I know how to settle conflict situations.
 ****
 ##Education
-**Teacher of Mathematics and Computer Science**
+***Teacher of Mathematics and Computer Science***
 
 2013, Vitebsk State University named after P.M. Masherov
 
-**Economist-Manager**
+***Economist-Manager***
 
 2015, Vitebsk State University named after P.M. Masherov
  
-**Master of Education**
+***Master of Education***
 
 2021, Vitebsk State University named after P.M. Masherov
 ****
 ##Work experience
-**Computer Science Teacher**
+***Computer Science Teacher***
 
 2008 – 2016, State educational institution "Secondary school No.7 of Orsha"
 
-**Teacher of special disciplines in the specialty "Software of information technologies"**
+***Teacher of special disciplines in the specialty "Software of information technologies"***
 
 2016 - present, Orsha College of the P.M. Masherov VSU
 ***
