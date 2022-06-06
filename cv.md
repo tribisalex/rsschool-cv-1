@@ -1,5 +1,6 @@
 #Tribis Aleksandr
-![logo](photo.jpg "Photo")
+![logo](photo1.jpg "Photo")
+
 The novice frontend developer
 
 October 18, 1987
